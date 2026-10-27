@@ -1,10 +1,82 @@
 [
   {
     "id": "1",
-    "judul": "Judul tempat makan",
-    "kategori": "Kategori, misalnya Nasi, Mi, Minuman, Jajanan",
+    "judul": "Donat",
+    "kategori": "Jajanan",
     "alamat": "Gg. Kemang, Way Hui, Kec. Jati Agung, Kabupaten Lampung Selatan, Lampung 35136",
-    "hargaRataRata": 0,
+    "hargaRataRata": 15000,
     "jamBuka": "10.00-21.00"
+  },
+  {
+    "id": "2",
+    "judul": "Aira Bahari",
+    "kategori": "Makanan",
+    "alamat": "Gg. Kemang, Way Hui, Kec. Jati Agung, Kabupaten Lampung Selatan, Lampung 35136",
+    "hargaRataRata": 18000,
+    "jamBuka": "10.00-21.00"
+  },
+  {
+    "id": "3",
+    "judul": "Ayam Geprek Kemang",
+    "kategori": "Makanan",
+    "alamat": "Gg. Kemang, Way Hui, Kec. Jati Agung, Kabupaten Lampung Selatan, Lampung 35136",
+    "hargaRataRata": 15000,
+    "jamBuka": "09.00-21.00"
+  },
+  {
+    "id": "4",
+    "judul": "Mie Ayam & Bakso Moro Seneng",
+    "kategori": "Makanan",
+    "alamat": "Jl. Ryacudu, Way Hui, Kec. Jati Agung, Kabupaten Lampung Selatan, Lampung 35136",
+    "hargaRataRata": 17000,
+    "jamBuka": "11.00-22.00"
+  },
+  {
+    "id": "5",
+    "judul": "Es Teh Jumbo ITERA",
+    "kategori": "Minuman",
+    "alamat": "Jl. Terusan Ryacudu, Way Hui, Kec. Jati Agung, Kabupaten Lampung Selatan, Lampung 35136",
+    "hargaRataRata": 5000,
+    "jamBuka": "09.00-18.00"
+  },
+  {
+    "id": "6",
+    "judul": "Pecel Lele & Ayam Bakar Mas Di",
+    "kategori": "Makanan",
+    "alamat": "Jl. Ryacudu, Way Hui, Kec. Jati Agung, Kabupaten Lampung Selatan, Lampung 35136",
+    "hargaRataRata": 20000,
+    "jamBuka": "16.00-23.00"
+  },
+  {
+    "id": "7",
+    "judul": "Seblak Prasmanan Ceu Popon",
+    "kategori": "Jajanan",
+    "alamat": "Gg. H. Thohir, Way Hui, Kec. Jati Agung, Kabupaten Lampung Selatan, Lampung 35136",
+    "hargaRataRata": 15000,
+    "jamBuka": "12.00-21.00"
+  },
+  {
+    "id": "8",
+    "judul": "Warkop & Bubur Ayam Barokah",
+    "kategori": "Makanan",
+    "alamat": "Jl. Ryacudu, Way Hui, Kec. Jati Agung, Kabupaten Lampung Selatan, Lampung 35136",
+    "hargaRataRata": 12000,
+    "jamBuka": "06.00-22.00"
+  },
+  {
+    "id": "9",
+    "judul": "Kopi Susu & Warmindo Mahasiswa",
+    "kategori": "Minuman",
+    "alamat": "Gg. Kemang, Way Hui, Kec. Jati Agung, Kabupaten Lampung Selatan, Lampung 35136",
+    "hargaRataRata": 18000,
+    "jamBuka": "24 Jam"
+  },
+  {
+    "id": "10",
+    "judul": "Batagor & Siomay Bandung Kang Emil",
+    "kategori": "Jajanan",
+    "alamat": "Jl. Terusan Ryacudu, Way Hui, Kec. Jati Agung, Kabupaten Lampung Selatan, Lampung 35136",
+    "hargaRataRata": 10000,
+    "jamBuka": "10.00-19.00"
   }
 ]
