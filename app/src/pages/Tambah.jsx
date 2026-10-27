@@ -46,7 +46,7 @@ export default function Tambah() {
       </select>
 
       <label htmlFor="alamat">Alamat</label>
-      <input id="alamat" name="alamat" placeholder="Alamat Tempat" value={form.tenggat} onChange={ubah} />
+      <input id="alamat" name="alamat" placeholder="Alamat Tempat" value={form.alamat} onChange={ubah} />
 
       <label htmlFor="hargaRataRata">Harga Rata-Rata</label>
       <input id="hargaRataRata" name="hargaRataRata" value={form.hargaRataRata} onChange={ubah}></input>
