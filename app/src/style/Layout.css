@@ -81,6 +81,13 @@
   border-radius: 8px;
 }
 
+.kartu a {
+    text-decoration: none;
+    color: #36415A;
+}
+.kartu a:hover {
+    color: black;
+}
 .kartu h3 {
   margin: 0 0 0.25rem;
   font-size: 1.05rem;
@@ -88,7 +95,7 @@
 
 .kartu p {
   margin: 0;
-  color: #57606a;
+  color: currentColor;
 }
 
 .alat-koleksi {
