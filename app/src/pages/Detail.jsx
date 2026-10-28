@@ -1,5 +1,6 @@
 import { Link, useNavigate, useParams } from 'react-router-dom'
 import useKoleksi from '../hooks/useKoleksi.js'
+import '../style/Detail.css'
 
 export default function Detail() {
   const { id } = useParams()
@@ -25,6 +26,10 @@ export default function Detail() {
     }
   }
 
+  const konfirmasiKembali = () => {
+    navigate('/koleksi')
+  }
+
   return (
     <section className='kartu'>
       <h1>{item.judul}</h1>
@@ -42,7 +47,9 @@ export default function Detail() {
         <button type="button" onClick={konfirmasiHapus}>
           Hapus
         </button>
-        <Link to="/koleksi">Kembali</Link>
+        <button id='btn-kembali' type="button" onClick={konfirmasiKembali}>
+          Kembali
+        </button>
       </div>
     </section>
   )
