@@ -16,8 +16,18 @@
   gap: 1rem;
 }
 
+.menu a {
+  text-decoration: none;
+  color:#36415A;
+}
+
+.menu a:hover {
+    color: #202734;
+}
+
 .menu a.active {
   font-weight: 600;
+  color: #202734;
 }
 
 .isi {
@@ -26,13 +36,15 @@
   max-width: 960px;
   margin: 0 auto;
   padding: 1.5rem;
+
 }
 
 .kaki {
   padding: 1rem 1.5rem;
-  border-top: 1px solid #dcdcdc;
+  border-top: 1px solid #E0F8C7;
   color: #57606a;
   font-size: 0.9rem;
+  text-align: center;
 }
 
 .aksi {
@@ -46,6 +58,7 @@
   display: grid;
   grid-template-columns: max-content 1fr;
   gap: 0.25rem 1rem;
+
 }
 
 .isi dt {
