@@ -23,6 +23,7 @@
 
 .menu a:hover {
     color: #202734;
+    text-decoration: underline;
 }
 
 .menu a.active {
@@ -95,7 +96,7 @@
 
 .kartu p {
   margin: 0;
-  color: currentColor;
+  color: gray;
 }
 
 .alat-koleksi {
