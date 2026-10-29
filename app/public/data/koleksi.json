@@ -1,75 +1,84 @@
 [
   {
     "id": "1",
-    "judul": "Donat",
+    "judul": "Hello Donuts",
     "kategori": "Jajanan",
-    "alamat": "Gg. Kemang, Way Hui, Kec. Jati Agung, Kabupaten Lampung Selatan, Lampung 35136",
+    "alamat": "Jl. Endro Suratmin No.120, Sukarame, Kec. Sukarame, Kota Bandar Lampung, Lampung 35131",
     "hargaRataRata": 15000,
-    "jamBuka": "10.00-21.00"
+    "jamBuka": "08.00-21.00",
+    "detail": "Donat enak di kawasan Sukarame, rating 4.9/5"
   },
   {
     "id": "2",
-    "judul": "Aira Bahari",
+    "judul": "Warteg Aira Bahari",
     "kategori": "Makanan",
-    "alamat": "Gg. Kemang, Way Hui, Kec. Jati Agung, Kabupaten Lampung Selatan, Lampung 35136",
+    "alamat": "Jl. Tirtaria No.3, Way Kandis, Kec. Tj. Senang, Kota Bandar Lampung, Lampung 35131",
     "hargaRataRata": 18000,
-    "jamBuka": "10.00-21.00"
+    "jamBuka": "24 Jam",
+    "detail": "Warteg Aira Bahari ini buka 24 jam."
   },
   {
     "id": "3",
-    "judul": "Ayam Geprek Kemang",
+    "judul": "Geprek Bedjo",
     "kategori": "Makanan",
-    "alamat": "Gg. Kemang, Way Hui, Kec. Jati Agung, Kabupaten Lampung Selatan, Lampung 35136",
+    "alamat": "Jl. Pulau Pisang, Harapan Jaya, Kec. Sukarame, Kota Bandar Lampung, Lampung 35131",
     "hargaRataRata": 15000,
-    "jamBuka": "09.00-21.00"
+    "jamBuka": "10.00-21.00",
+    "detail": "Geprek kang Bedjo dijamin nikmat lezat gurih nyoi."
   },
   {
     "id": "4",
-    "judul": "Mie Ayam & Bakso Moro Seneng",
+    "judul": "Bakso Moro Seneng",
     "kategori": "Makanan",
-    "alamat": "Jl. Ryacudu, Way Hui, Kec. Jati Agung, Kabupaten Lampung Selatan, Lampung 35136",
+    "alamat": "J75W+C4V, Jl. Pulau Legundi, Sukarame, Kec. Sukarame, Kota Bandar Lampung, Lampung 35122",
     "hargaRataRata": 17000,
-    "jamBuka": "11.00-22.00"
+    "jamBuka": "09.15-21.00",
+    "detail": "Bakso Moro Seneng, jual bakso dan mie ayam enak cuy."
   },
   {
     "id": "5",
-    "judul": "Es Teh Jumbo ITERA",
+    "judul": "Es Teh Poci Itera",
     "kategori": "Minuman",
-    "alamat": "Jl. Terusan Ryacudu, Way Hui, Kec. Jati Agung, Kabupaten Lampung Selatan, Lampung 35136",
+    "alamat": "Way Hui, Kec. Jati Agung, Kabupaten Lampung Selatan, Lampung 35365",
     "hargaRataRata": 5000,
-    "jamBuka": "09.00-18.00"
+    "jamBuka": "09.30-21.00",
+    "detail": "Es Teh Poci seger, besar, enak kalo di minum panas-panas."
   },
   {
     "id": "6",
-    "judul": "Pecel Lele & Ayam Bakar Mas Di",
+    "judul": "Pecel Lele dan Ayam Goreng Mbak Dewi",
     "kategori": "Makanan",
-    "alamat": "Jl. Ryacudu, Way Hui, Kec. Jati Agung, Kabupaten Lampung Selatan, Lampung 35136",
+    "alamat": "M73W+5WF, Jl. Airan Raya, Way Hui, Kec. Jati Agung, Kabupaten Lampung Selatan, Lampung 35131",
     "hargaRataRata": 20000,
-    "jamBuka": "16.00-23.00"
+    "jamBuka": "10.00-21.00",
+    "detail": "Pecel Lele dan Ayam Goreng Mbak Dewi enak, lembut, gurih, kriuk, nyoi."
   },
   {
     "id": "7",
-    "judul": "Seblak Prasmanan Ceu Popon",
+    "judul": "Seblak Prasmanan Way Hui",
     "kategori": "Jajanan",
-    "alamat": "Gg. H. Thohir, Way Hui, Kec. Jati Agung, Kabupaten Lampung Selatan, Lampung 35136",
+    "alamat": "Jl. Kapling Raya No.05, Way Hui, Kec. Jati Agung, Kabupaten Lampung Selatan, Lampung 35131",
     "hargaRataRata": 15000,
-    "jamBuka": "12.00-21.00"
+    "jamBuka": "12.00-21.00",
+    "detail": "Kedai seblak prasmanan, rasanya mantap bangat."
   },
   {
     "id": "8",
-    "judul": "Warkop & Bubur Ayam Barokah",
+    "judul": "Warkop Zaky",
     "kategori": "Makanan",
-    "alamat": "Jl. Ryacudu, Way Hui, Kec. Jati Agung, Kabupaten Lampung Selatan, Lampung 35136",
+    "alamat": "J8XG+73J, Jl. Terusan Ryacudu, Way Hui, Kec. Jati Agung, Kabupaten Lampung Selatan, Lampung 35365",
     "hargaRataRata": 12000,
-    "jamBuka": "06.00-22.00"
+    "jamBuka": "06.00-22.00",
+    "detail": "Warkop buat nyantai, ngopi, nongkrong, ngerjain tugas, enak pol."
   },
   {
     "id": "9",
-    "judul": "Kopi Susu & Warmindo Mahasiswa",
+    "judul": "Minumin Itera, Way Huwi",
     "kategori": "Minuman",
-    "alamat": "Gg. Kemang, Way Hui, Kec. Jati Agung, Kabupaten Lampung Selatan, Lampung 35136",
+    "alamat": "Jl. Lapas Raya, Way Hui, Kec. Jati Agung, Kabupaten Lampung Selatan, Lampung 35365",
     "hargaRataRata": 18000,
-    "jamBuka": "24 Jam"
+    "jamBuka": "10.00-22.00",
+    "detail": "Tempat nongki untuk kaum muda yang hobi minum."
   },
   {
     "id": "10",
@@ -77,6 +86,7 @@
     "kategori": "Jajanan",
     "alamat": "Jl. Terusan Ryacudu, Way Hui, Kec. Jati Agung, Kabupaten Lampung Selatan, Lampung 35136",
     "hargaRataRata": 10000,
-    "jamBuka": "10.00-19.00"
+    "jamBuka": "10.00-19.00",
+    "detail": "Batagor dan Siomay khas Bandung."
   }
 ]
