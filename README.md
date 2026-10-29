@@ -5,7 +5,7 @@ Nama: Hanung Akbar Pramusintho
 NIM: 124140207
 Kelas: RA
 Tema: Direktori Kuliner Sekitar Kampus
-Deployment: https://github.com/hanungdata-prog/uts-paw
+Deployment: https://hanungdata-prog.github.io/uts-paw
 
 ![Tangkapan layar beranda](docs/beranda.png)
 
