@@ -1,0 +1,21 @@
+#btn-kekoleksi {
+  align-self: flex-start;
+  margin-top: 1rem;
+  padding: 0.6rem 1.5rem;
+  border: 0;
+  border-radius: 6px;
+  background: #1f2328;
+  color: #fff;
+  font: inherit;
+  cursor: pointer;
+}
+
+#btn-kekoleksi:hover {
+    background-color: grey;
+}
+
+@media (max-width: 480px) {
+  .btn-kekoleksi  {
+    align-self: stretch;
+  }
+}
